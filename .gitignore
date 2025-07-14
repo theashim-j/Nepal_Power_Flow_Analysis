@@ -1,0 +1,12 @@
+# Jupyter and Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+.env
+*.env
+
+# Data and outputs
+data/
+output/
+*.csv
+*.geojson
