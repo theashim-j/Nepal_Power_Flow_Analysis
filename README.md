@@ -1,4 +1,3 @@
-# Nepal_Power_Flow_Analysis
 # Nepal Transmission Analysis
 
 This repository contains a Jupyter Notebook for analyzing transmission line infrastructure in Nepal. It is intended for the power flow analysis of proposed transmission network of Nepal by 2035.
